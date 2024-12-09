@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/kumarpradeep/Unoversal_Editor/:/
+ - /content/kumarpradeep/Unoversal_Editor/metadata.json:/metadata.json
+ - /content/kumarpradeep/Unoversal_Editor/redirects.json:/redirects.json
